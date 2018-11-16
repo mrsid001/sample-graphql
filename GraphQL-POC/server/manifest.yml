@@ -1,0 +1,4 @@
+---
+applications:
+- name: Sidd_GraphQL_App_2
+  command: node app.js
